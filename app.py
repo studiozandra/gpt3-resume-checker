@@ -8,6 +8,7 @@ import openai
 # import the pdf convert script (https://pypdf2.readthedocs.io/en/latest/index.html)
 import PyPDF2
 
+# create a file in this same project directory named 'secret' (see README file)
 import secret
 
 # Set your OpenAI API key:

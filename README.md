@@ -34,4 +34,18 @@ source myenv/bin/activate
 # on Windows
 myenv\Scripts\activate
 
-(When you're done working in the virtual environment, you can deactivate it by running the 'deactivate' command.)
+You should see a different terminal prompt now, indicating that the venv is active. (When you're done working in the virtual environment, you can deactivate it by running the 'deactivate' command.)
+
+7. With the virtual env running, run this command to install required packages (note: not all of these packages are needed -- you can edit the 'requirements.txt' file to delete unneeded packages before running this command):
+
+pip install -r requirements.txt 
+
+8. run this command to confirm those packages were installed successfully:
+
+pip freeze
+
+9. In the terminal with the venv running, run the script:
+
+python app.py
+
+10. You should see ChatGPT's results in the terminal after a while -- network traffic varies. OpenAI is sometimes down due to heavy traffic, which will result in an error message.
