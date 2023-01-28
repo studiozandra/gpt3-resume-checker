@@ -1,0 +1,41 @@
+Original:
+
+Zandra Kubota       github.com/studiozandra     zan@studiozandra.com   (917)645-2886
+HTML, CSS, JavaScript, Node, Git, CLI, Django
+React, Heroku, Linear, Pivotal, Figma, GIMP , Ubuntu Linux, Windows, Mac OS, Slack, Pop app,
+Agile practices; now studying Pytest and Django TDD
+“It's rare to meet someone with such empathy.” – Malachy Burns, Engineering Mgr., Lightmatter, Inc.
+Enthusiastic about assisting all team members in reaching organization goals, especially if outside comfort zone      
+Experience
+Software Developer , StudioZandra, NYC  2020 – present
+- Designing and writing a job-hunting application with Python/Django/JavaScript/PostgreSQL (jobstrek.net)
+- Automated testing; iterating and user research with real job seekers
+Software Engineer,  Lightmatter, Inc.  NYC, remote  3/2022  – 6/2022
+- Added responsive features to  React and Django web apps, with Circle CI integrated testing
+- Shared documents/helpful links/assets in the team Slack, G-Suite
+- Conducted QA/site testing, fixed broken tests; wrote project README documentation
+- Groomed sprint tickets, discussed plans with designers; kept PMs appraised on status
+Web Development Instructor & Advisor,  Nucamp Coding Bootcamp  HI-NYC, remote  9/2019  – 3/2022
+- Taught students bash, HTML, CSS, intro to JavaScript, Node, and DOM manipulation
+- Met with prospects; provided resume review, mock interviews, and encouragement to students/alumni
+- Utilized Zendesk, Hubspot, Office 365, Zoom, Slack, and Calendly; co-hosted YouTube livestreams
+Freelance Web Developer  Honolulu  1/2018  – 9/2019
+- Analyzed client needs, wrote detailed proposals with delivery benchmarks
+- Optimized pages using testing resources such as Browsershots.org, GTMetrix, Firefox Toolbox, Lighthouse
+- Made SEM Rush SEO plan; selected typography, layouts and graphics; blog posts with Yoast tools
+- Customized CSS in WordPress; set up WooCommerce and Stripe; client training; automated backups
+
+Web Design & Development , Sultan Ventures, LLC,  Honolulu 9/2018 – 12/2018
+- Wrote site redesign proposal for a division of the top VC firm in Honolulu ( XLR8HI.com)
+- Mastered Elementor (customization plugin,) hosted on a Digital Ocean droplet
+Temp positions while studying web development , Various, Honolulu 4/2016 – 9/2018
+US Postal Service Kahala Station; Hi Employment Temp with Honolulu schools; Alaska Airlines at Honolulu Airport       
+- Passed rigorous background checks for federal government, elementary schools, and airports
+Communications Manager,  Riverbay Corporation   NYC 10/2015 – 4/2016
+Marketing Assistant , Kaneka Americas Holding Inc.   NYC 1/2014 – 10/2015
+Education
+- BA English, minor in Japanese studies , summa cum laude, Lehman College of the City University of New
+York; cumulative grade point average of 3.8
+- DevLeague Prep, 4-week HTML/CSS/JS course, Honolulu, HI
+- Kickstart Coding Bootcamp – Backend Course, Python, Django, SQL, cloud deployment (Heroku)
+Other/Hobbies  enjoy reading books, drawing, and riding motorcycles
