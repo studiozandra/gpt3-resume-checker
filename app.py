@@ -75,10 +75,8 @@ with open(secret.resume_file, "rb") as file:
             engine="text-davinci-003",
             max_tokens=1024,
             temperature=1,
-            prompt="Based on this job description, " 
-            + job_description 
-            + " comment on whether or not a job candidate is qualified for the role (i.e., do the skills on resume match job description) "
-            "(with breif explanations,) considering their following resume: " 
+            prompt="I want you to act as a technical recruiter. I will give you a candidate resume and the target job description. You will determine whether or not the candidate has the needed skills to carry out the role, and tell me the result:"
+            + job_description
             + resume_text
         )
     except Exception as e:
