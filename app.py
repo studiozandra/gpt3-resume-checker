@@ -74,7 +74,7 @@ with open(secret.resume_file, "rb") as file:
         response = openai.Completion.create(
             engine="text-davinci-003",
             max_tokens=1024,
-            temperature=0.5,
+            temperature=1,
             prompt="Based on this job description, " 
             + job_description 
             + " comment on whether or not a job candidate is qualified for the role (i.e., do the skills on resume match job description) "
