@@ -8,7 +8,8 @@
 `git clone git@github.com:studiozandra/gpt3-resume-checker.git`
 
 ### 2. Go to your account at OpenAI and create an API key. 
-3. Create a Python file in this project directory called secret.py, and add the following code, replacing the example strings with your own information:
+
+### 3. Create a Python file in this project directory called secret.py, and add the following code, replacing the example strings with your own information:
 
 ```
 key = "YOUR_API_KEY_HERE"
@@ -23,7 +24,7 @@ resume_file = "C:/Users/your_user_name/Documents/Your_Resume_File.pdf"
 
 ...or by running:
 
-pip install virtualenv
+`pip install virtualenv`
 
 ...then typing:
 
@@ -50,4 +51,4 @@ You should see a different terminal prompt now, indicating that the venv is acti
 
 `python app.py`
 
-### 10. You should see ChatGPT's results in the terminal after a while -- network traffic varies. OpenAI is sometimes down due to heavy traffic, which will result in an error message.
+### 10. You should see ChatGPT's results in the terminal after a while -- network traffic varies. OpenAI is sometimes down due to heavy traffic, which will result in an error message. Also, you can adjust the temperature setting (see OpenAI documentation for details) to get different results.
